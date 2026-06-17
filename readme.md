@@ -1,100 +1,43 @@
-# Tarun Kumar — Digital Headquarters
+# Tarun | Digital Headquarters
 
-A personal website built to document the journey of learning, building, and growing.
+A personal website documenting my journey, projects, experiences, lessons, and future chapters.
 
-This is not a traditional portfolio.
-
-Instead of focusing only on projects and achievements, this website serves as a digital headquarters — a place to capture ideas, lessons, milestones, principles, and the chapters that shape the journey over time.
-
-## Philosophy
-
-> Building. Creating. Documenting.
-
-The goal is simple:
-
-* Learn continuously
-* Build useful things
-* Document the process
-* Share the lessons along the way
-
-Every chapter becomes part of the story.
-
----
-
-## Sections
-
-### Current Focus
-
-What I'm actively working on right now across career, learning, health, and life.
-
-### Life OS
-
-The system I use to learn, process information, build projects, and grow over time.
-
-### Journey
-
-A timeline of milestones, experiences, and chapters that have shaped my path.
-
-### Principles
-
-A collection of beliefs and ideas that influence how I work and live.
-
-### Build Logs
-
-Recent projects, experiments, and improvements.
-
-### Field Notes
-
-Lessons, observations, and thoughts collected throughout the journey.
-
----
+Built as a living digital headquarters rather than a traditional portfolio.
 
 ## Features
 
-* Responsive design
-* Dark / Light mode
-* Custom cursor effects
-* Animated hero section
-* Interactive soundtrack button
-* Scroll reveal animations
-* Mobile navigation
-* Timeline-based storytelling
-* Glassmorphism-inspired interface
-
----
+* Dark / Light Theme
+* Custom Cursor
+* Interactive Chapters
+* Scroll Reveal Animations
+* Floating Elements
+* Typewriter Effect
+* Soundtrack Player
+* Responsive Design
+* Story-Driven Timeline
 
 ## Tech Stack
 
 * HTML5
 * CSS3
-* Vanilla JavaScript
+* JavaScript (Vanilla)
 
-No frameworks. No templates.
+## Future Roadmap
 
-Built from scratch.
+* Contact Form (EmailJS)
+* Visitor Counter
+* Moon Phase Widget
+* Spotify Integration
+* Weather & Time Widgets
+* React + Vite Migration
+* Backend Dashboard
 
----
+## Philosophy
 
-## Why This Exists
+The website is built around one idea:
 
-Most websites show where someone is.
+> Building one chapter at a time.
 
-This website documents how they got there.
+## Author
 
-The goal is not to create a perfect snapshot, but to build a living record of growth, learning, mistakes, experiments, and progress.
-
----
-
-## Current Status
-
-Chapter 03 — Skill Building
-
-Still learning.
-Still building.
-Still documenting.
-
-The story is still unfolding.
-
----
-
-© Tarun Kumar
+Tarun
